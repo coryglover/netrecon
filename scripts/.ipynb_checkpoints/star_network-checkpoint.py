@@ -19,7 +19,7 @@ def star_network(n):
     Returns:
         g (Graph): The generated star network.
     """
-    g = Graph(directed=False)
+    g = gt.Graph(directed=False)
 
     # Add vertices
     vertices = [g.add_vertex() for _ in range(n)]
@@ -89,7 +89,7 @@ parser.add_argument('--iterations',type=int,default=100,help='Number of iteratio
 parser.add_argument('--intervals',type=int,default=7,help='Number of intervals of Steps')
 parser.add_argument('--dynamics',type=str,default='ising',help='Type of dynamics')
 parser.add_argument('--beta',type=float,default=1.0,help='Beta')
-parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+parser.add_argument('--mu',type=float,default=1.0,help='Mu')
 parser.add_argument('--file',default=None,type=str,help='Directory to store data')
 
 # Read in parameters
@@ -99,6 +99,7 @@ min_steps = args.min_steps
 max_steps = args.max_steps
 intervals = args.intervals
 dynamics = args.dynamics
+iterations = args.iterations
 beta = args.beta
 mu = args.mu
 file = args.file

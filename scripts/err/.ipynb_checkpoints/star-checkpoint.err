@@ -1,0 +1,495 @@
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?
+Traceback (most recent call last):
+  File "/work/ccnr/glover.co/net_reconstruction/netrecon/scripts/star_network.py", line 92, in <module>
+    parser.add_argumnet('--mu',type=float,default=1.0,help='Mu')
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ArgumentParser' object has no attribute 'add_argumnet'. Did you mean: 'add_argument'?

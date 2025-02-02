@@ -1,0 +1,12 @@
+/home/glover.co/miniconda3/envs/gt/lib/python3.12/site-packages/numpy/core/function_base.py:299: RuntimeWarning: overflow encountered in power
+  return _nx.power(base, y).astype(dtype, copy=False)
+/home/glover.co/miniconda3/envs/gt/lib/python3.12/site-packages/numpy/core/function_base.py:299: RuntimeWarning: invalid value encountered in cast
+  return _nx.power(base, y).astype(dtype, copy=False)
+/home/glover.co/miniconda3/envs/gt/lib/python3.12/site-packages/numpy/core/function_base.py:299: RuntimeWarning: overflow encountered in power
+  return _nx.power(base, y).astype(dtype, copy=False)
+/home/glover.co/miniconda3/envs/gt/lib/python3.12/site-packages/numpy/core/function_base.py:299: RuntimeWarning: overflow encountered in power
+  return _nx.power(base, y).astype(dtype, copy=False)
+/home/glover.co/miniconda3/envs/gt/lib/python3.12/site-packages/numpy/core/function_base.py:299: RuntimeWarning: invalid value encountered in cast
+  return _nx.power(base, y).astype(dtype, copy=False)
+/home/glover.co/miniconda3/envs/gt/lib/python3.12/site-packages/numpy/core/function_base.py:299: RuntimeWarning: invalid value encountered in cast
+  return _nx.power(base, y).astype(dtype, copy=False)
