@@ -136,7 +136,7 @@ def calc_distances(g1,g2):
 
 # Accept input parameters
 parser = argparse.ArgumentParser()
-parser.add_argument('--dynamics',type=str,default=None,help='dynamics')
+parser.add_argument('--dynamics',type=str,default='ising',help='dynamics')
 parser.add_argument('--beta',default=1.0,type=float,help='Beta parameter for Ising and SIS')
 parser.add_argument('--mu',default=np.nan,type=float,help='Mu parameter for SIS')
 parser.add_argument('--steps',default=1000,type=int,help='Number of steps to take')
@@ -157,10 +157,10 @@ g = gt.load_graph(f'{file}/g.gml')
 X = simulate(g,M=steps,dynamics=dynamics,beta=beta,mu=mu)
 
 # Save dynamics
-np.savetxt(f'{file}/{dynamics}_X_{steps}.txt')
+np.savetxt(f'{file}/{dynamics}_X_{steps}.txt',X)
 
 # Try to reconstruct network
-recon_g = reconstruct(X,dynamics=dynamics,beta=beta,mu=mu)
+recon_g, w_r, t_r, entropy = reconstruct(X,dynamics=dynamics,beta=beta,mu=mu)
 
 # Save network reconstruction
 recon_g.save(f'{file}/recon_g_{steps}.gml')
@@ -174,5 +174,5 @@ distances = calc_distances(g,recon_g)
 
 # Save stats
 np.savetxt(f'{file}/g_stats.txt',g_stats)
-np.savetxt(f'{file}/recon_g_{steps}_stats.txt',recon_g_stats)
+np.savetxt(f'{file}/recon_g_{steps}_stats.txt',np.append(recon_g_stats,entropy))
 np.savetxt(f'{file}/distances_{steps}.txt',distances)
