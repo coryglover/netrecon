@@ -180,3 +180,27 @@ def nonlinear_pa(N, m, alpha=1):
     g = gt.Graph(g, prune=True)
 
     return g
+
+def random_network(N, p):
+    """
+    Generate a random network using the Erdős-Rényi model.
+
+    Parameters:
+        N (int) - number of nodes
+        p (float) - probability of edge creation
+
+    Returns:
+        graph_tool.Graph
+    """
+    g = gt.Graph(directed=False)
+    
+    # Add vertices
+    vertices = g.add_vertex(N)
+    
+    # Add edges based on probability p
+    for i in range(N):
+        for j in range(i + 1, N):
+            if np.random.random() < p:
+                g.add_edge(g.vertex(i), g.vertex(j))
+
+    return g

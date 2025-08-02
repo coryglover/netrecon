@@ -13,6 +13,22 @@ import copy
 
 ### Helper functions
 
+def prob_ising(X,A,beta=1):
+    """
+    Calcaulte probability of getting a time series from Ising dynamics on network A.
+    Parameters:
+        X (np.ndarray) - time series of states
+        A (np.ndarray) - adjacency matrix of network
+    Returns:
+        prob (float) - probability of time series given network
+    """
+    log_prob = 0.0
+    N, T = X.shape
+    for t in range(1, T):
+        interaction = A @ X[:, t - 1]  # Vectorized interaction term
+        log_prob += np.sum(np.log(np.exp(beta * X[:, t] * interaction) / (2 * np.cosh(beta * interaction))))
+    return -log_prob
+
 def simulate(g,M=1000,dynamics='ising',beta=1.0,mu=1.0):
     """
     Simulate Ising dynamics on network
@@ -134,45 +150,46 @@ def calc_distances(g1,g2):
         dist.append(d_i.dist(g1,g2))
     return dist[0], dist[1], dist[2]
 
-# Accept input parameters
-parser = argparse.ArgumentParser()
-parser.add_argument('--dynamics',type=str,default='ising',help='dynamics')
-parser.add_argument('--beta',default=1.0,type=float,help='Beta parameter for Ising and SIS')
-parser.add_argument('--mu',default=np.nan,type=float,help='Mu parameter for SIS')
-parser.add_argument('--steps',default=1000,type=int,help='Number of steps to take')
-parser.add_argument('--file',default=None,type=str,help='Directory storing data')
+if __name__ == "__main__":
+    # Accept input parameters
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--dynamics',type=str,default='ising',help='dynamics')
+    parser.add_argument('--beta',default=1.0,type=float,help='Beta parameter for Ising and SIS')
+    parser.add_argument('--mu',default=np.nan,type=float,help='Mu parameter for SIS')
+    parser.add_argument('--steps',default=1000,type=int,help='Number of steps to take')
+    parser.add_argument('--file',default=None,type=str,help='Directory storing data')
 
-# Read in parameters
-args = parser.parse_args()
-dynamics = args.dynamics
-beta = args.beta
-mu = args.mu
-steps = args.steps
-file = args.file
+    # Read in parameters
+    args = parser.parse_args()
+    dynamics = args.dynamics
+    beta = args.beta
+    mu = args.mu
+    steps = args.steps
+    file = args.file
 
-# Get original graph from file
-g = gt.load_graph(f'{file}/g.gml')
+    # Get original graph from file
+    g = gt.load_graph(f'{file}/g.gml')
 
-# Simulate dynamics
-X = simulate(g,M=steps,dynamics=dynamics,beta=beta,mu=mu)
+    # Simulate dynamics
+    X = simulate(g,M=steps,dynamics=dynamics,beta=beta,mu=mu)
 
-# Save dynamics
-np.savetxt(f'{file}/{dynamics}_X_{steps}.txt',X)
+    # Save dynamics
+    np.savetxt(f'{file}/{dynamics}_X_{steps}.txt',X)
 
-# Try to reconstruct network
-recon_g, w_r, t_r, entropy = reconstruct(X,dynamics=dynamics,beta=beta,mu=mu)
+    # Try to reconstruct network
+    recon_g, w_r, t_r, entropy = reconstruct(X,dynamics=dynamics,beta=beta,mu=mu)
 
-# Save network reconstruction
-recon_g.save(f'{file}/recon_g_{steps}.gml')
+    # Save network reconstruction
+    recon_g.save(f'{file}/recon_g_{steps}.gml')
 
-# Analyze networks
-g_stats = analyze_network(g)
-recon_g_stats = analyze_network(recon_g)
+    # Analyze networks
+    g_stats = analyze_network(g)
+    recon_g_stats = analyze_network(recon_g)
 
-# Get network distance
-distances = calc_distances(g,recon_g)
+    # Get network distance
+    distances = calc_distances(g,recon_g)
 
-# Save stats
-np.savetxt(f'{file}/g_stats.txt',g_stats)
-np.savetxt(f'{file}/recon_g_{steps}_stats.txt',np.append(recon_g_stats,entropy))
-np.savetxt(f'{file}/distances_{steps}.txt',distances)
+    # Save stats
+    np.savetxt(f'{file}/g_stats.txt',g_stats)
+    np.savetxt(f'{file}/recon_g_{steps}_stats.txt',np.append(recon_g_stats,entropy))
+    np.savetxt(f'{file}/distances_{steps}.txt',distances)
